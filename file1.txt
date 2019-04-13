@@ -1,3 +1,5 @@
 this is the file 1 
 
-changes are to be second commit
+the changes are made in in third commit
+
+added to this in third commit
